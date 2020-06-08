@@ -1,6 +1,9 @@
 ## Introduction
 
-Collection of selected projects in the area of Data Science, Data Engineering, Automation, AI are presented on this page. The link to each associated github page is included and by clicking it, you will be led to the code of the respective project together with the detail description. (updated June 2020)
+Collection of selected projects in the area of Data Science, Data Engineering, Automation, AI are presented on this page. The link to each associated github page is included and by clicking it, you will be led to the code of the respective project together with the detail description.  (updated June 2020)
+
+_Note:_
+_Some projects are excluded from this portfolio due to the company's data security and information disclosure policies._
 
 ## [Truck's operational distance logger](https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2)
 
@@ -90,7 +93,7 @@ This developed solution still lacks the advance NLP to more accurately identify 
 - **NLP**
 
 **Web Application**
-[Link to Web application hosted on heroku](http://traffic-monitoring.herokuapp.com/)
+- [Link to Web application hosted on heroku](http://traffic-monitoring.herokuapp.com/)
 
 [View application screen](https://github.com/hkbtotw/traffic-monitor/blob/master/ScreenCapture.JPG)
 
