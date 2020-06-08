@@ -1,6 +1,6 @@
 ## Introduction
 
-Collection of projects in the area of Data Science, Data Engineering, Automation, AI are presented on this page. The link to each associated github page is included and by clicking it, you will be led to the code of the respective project together with the detail description.
+Collection of selected projects in the area of Data Science, Data Engineering, Automation, AI are presented on this page. The link to each associated github page is included and by clicking it, you will be led to the code of the respective project together with the detail description. (updated June 2020)
 
 ## [Truck's operational distance logger](https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2)
 
