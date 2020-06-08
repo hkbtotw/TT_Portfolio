@@ -43,9 +43,7 @@ This application was developed as a protoytpe of the truck driver's driving beha
 
 **Technology**
 - **Amazon EC2**  _Parse Server_
-- **Twitter**
 - **Python**
-- **NLP**
 
 [View application screen](https://github.com/hkbtotw/DriveBehavior_Monitoring/blob/master/ScreenCapture.JPG)
 
@@ -61,6 +59,10 @@ This application runs on LINE application platform. It works by using the submit
 **Technology**
 - **LINE** application development
 - Openweather API
+- **Heroku**
+- **Twitter**
+- **Chatbot** 
+- **Python**
 
 [View application screen](https://github.com/hkbtotw/raspi-chatbot/blob/master/ScreenCapture_Weather.JPG)
 
