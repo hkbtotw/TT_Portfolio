@@ -21,7 +21,7 @@ In this application, the mile number shown in truck dashboard will be extracted 
 [View application screen](https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2/blob/master/screenCapture/Screen01.jpg)
 
 
-## [Truck driver's driving behavior monitoring](https://github.com/hkbtotw/DriveBehavior)
+## [Truck driver's driving behavior monitoring]
 
 **Why?**
 In logistics, delivery on-time is one of the major SLA which the business needs to fulfill this promise to their customers. Therefore, ability to track the status of each delivery and the driving behavior (e.g. speed ) of each truck driver is the leading indicator to this particular KPI.
@@ -29,12 +29,19 @@ In logistics, delivery on-time is one of the major SLA which the business needs 
 **Solution:**
 This application was developed as a protoytpe of the truck driver's driving behavior and delivery status monitoring.
 
+# [Client : Android Application](https://github.com/hkbtotw/DriveBehavior)
 **Technology**
 - **Amazon EC2**  _Parse Server_
 - **Google** Google Map api
 - **Android Application Development**
-
 [View application screen](https://github.com/hkbtotw/DriveBehavior/blob/master/ScreenCapture/ScreenPortrait.jpg)
+
+# [Monitoring application (desktop & web application)](https://github.com/hkbtotw/DriveBehavior)
+**Technology**
+- **Amazon EC2**  _Parse Server_
+- **Python**
+[View application screen](https://github.com/hkbtotw/DriveBehavior_Monitoring/blob/master/ScreenCapture.JPG)
+
 
 ## Contact
 My personal email address is _hkbtotw@gmail.com_ . Feel free to contact me if you would like to know more about any projects posted on this page or an opportunity of collaborations.
