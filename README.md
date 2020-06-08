@@ -29,7 +29,8 @@ In logistics, delivery on-time is one of the major SLA which the business needs 
 **Solution:**
 This application was developed as a protoytpe of the truck driver's driving behavior and delivery status monitoring.
 
-**[Client : Android Application](https://github.com/hkbtotw/DriveBehavior)
+### [Client : Android Application](https://github.com/hkbtotw/DriveBehavior)
+
 **Technology**
 - **Amazon EC2**  _Parse Server_
 - **Google** Google Map api
@@ -37,7 +38,8 @@ This application was developed as a protoytpe of the truck driver's driving beha
 
 [View application screen](https://github.com/hkbtotw/DriveBehavior/blob/master/ScreenCapture/ScreenPortrait.jpg)
 
-**[Monitoring dashboard(desktop & web application)](https://github.com/hkbtotw/DriveBehavior_Monitoring)
+### [Monitoring dashboard(desktop & web application)](https://github.com/hkbtotw/DriveBehavior_Monitoring)
+
 **Technology**
 - **Amazon EC2**  _Parse Server_
 - **Python**
