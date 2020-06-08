@@ -7,6 +7,9 @@ Collection of projects in the area of Data Science, Data Engineering, Automation
 **Why?**
 In logistics, cost management is one of the key performance indicator which management needs to keep monitoring and optimizing to drive the business to success. Oftentime, the problem in acheiving this goal is inability to obtain high quality operational information and the truck's operational distance is one good example of such information that could impact the transportation cost directly. However, getting the covered traveling distance is not easy as most companies rely on driver to input this information on either paper form or online data entry application in which the data can be easily manipulted for any other kind of reasons but the benefits of the company.
 
+**Boundary condition**
+To take advantage of advancing mobile computing technology and not limit ourself with any single device or technology, solution will be developed to run on mobile phone which has much less expensive nowadays and avoiding the development on any dedicated GPS or android box device which will incur additional equipment cost to the operators.
+
 **Solution:**
 This application was developed to help increasing the quality of transportation data by trying to removing human factor from inputting data the system. 
 In this application, the mile number shown in truck dashboard will be extracted by OCR and the data will be logged into the parse server for analyzing and other analytical activities. Additionally, it could help providing driver a feedback to each's daily operation with which driver could improve the driving behavior and plan to support the cost optimizaton and SLA goals.
