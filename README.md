@@ -16,6 +16,8 @@ In this application, the mile number shown in truck dashboard will be extracted 
 - **Amazon EC2**  _Parse Server_
 - **Google** Text recognition, Firebase ML, Google Drive and Map api
 - **Android Application Development**
+- **Computer Vision**
+- **Tensorflow Object Detection API**
 - **Image Processing**
 
 [View application screen](https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2/blob/master/screenCapture/Screen01.jpg)
