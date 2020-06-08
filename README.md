@@ -73,6 +73,26 @@ This application runs on LINE application platform. It works by using the submit
 [View application screen](https://github.com/hkbtotw/raspi-chatbot/blob/master/ScreenCapture_Weather.JPG)
 
 
+## [Traffic condition monitoring](https://github.com/hkbtotw/traffic-monitor)
+
+**Why?**
+Traffic in Bangkok is undisputed one of the worst in the world. To commute or travel in this big city, people commonly spend at least two to four hours a day to travel to work and back home daily. Should there be a source of traffic information which could help people to plan their route to save time and other related cost, it should benefit not only the car owners but the environment and society as a whole as well.
+
+**Solution:**
+Goal of this project is to gather the reported accidents and traffic condition by the Twitter users on each day and present them on the map so we could use this in trip planning. Hopefully this could help shorten the travel time. This application was developed as a prototype of such system that can collect unconventional information on social media platform and process it to create useful solution.
+This developed solution still lacks the advance NLP to more accurately identify locations on the map from the mentioned comment on Twitter.
+
+**Technology**
+- **Google map api**
+- **Heroku**
+- **Twitter** 
+- **Python**
+- **NLP**
+
+**Web Application**
+[Link to Web application hosted on heroku](http://traffic-monitoring.herokuapp.com/)
+
+[View application screen](https://github.com/hkbtotw/traffic-monitor/blob/master/ScreenCapture.JPG)
 
 
 ## Contact
