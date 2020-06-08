@@ -1,38 +1,23 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/hkbtotw/TT_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Collection of projects in the area of Data Science, Data Engineering, Automation, AI are presented on this page. The link to each associated github page is included and by clicking it, you will be led to the code of the respective project together with the detail description.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Android_AzureCS_BatchRead] (https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2)
 
-### Markdown
+#Why?
+In logistics, cost management is one of the key performance indicator which management needs to keep monitoring and optimizing to drive the business to success. Oftentime, the problem in acheiving this goal is inability to obtain high quality operational information and the truck's operational distance is one good example of such information that could impact the transportation cost directly. However, getting the covered traveling distance is not easy as most companies rely on driver to input this information on either paper form or online data entry application in which the data can be easily manipulted for any other kind of reasons but the benefits of the company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Solution:
+This application was developed to help increasing the quality of transportation data by trying to removing human factor from inputting data the system. 
+In this application, the mile number shown in truck dashboard will be extracted by OCR and logged in the parse server for analyzing and other analytical activities. Additionally, it could help providing driver a feedback to each's daily operation with which driver could improve the driving behavior and plan to support the cost optimizaton and SLA goals.
 
-```markdown
-Syntax highlighted code block
+#Technology
+- ** Azure Cognitive Service **
+- ** Amazon EC2 **  _Parse Server_
+- ** Google ** Text recognition, Firebase ML, Google Drive and Map api
 
-# Header 1
-## Header 2
-### Header 3
+![Application Screen] (https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2/blob/master/screenCapture/Screen01.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-## Theme
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkbtotw/TT_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+My personal email address is _hkbtotw@gmail.com_ . Feel free to contact me if you would like to know more about any projects posted on this page or an opportunity of collaborations.
