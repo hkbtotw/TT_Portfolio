@@ -21,6 +21,7 @@ In this application, the mile number shown in truck dashboard will be extracted 
 [View application screen](https://github.com/hkbtotw/Android_AzureCS_BatchRead_v2/blob/master/screenCapture/Screen01.jpg)
 
 
+
 ## Truck driver's driving behavior monitoring
 
 **Why?**
@@ -42,9 +43,28 @@ This application was developed as a protoytpe of the truck driver's driving beha
 
 **Technology**
 - **Amazon EC2**  _Parse Server_
+- **Twitter**
 - **Python**
+- **NLP**
 
 [View application screen](https://github.com/hkbtotw/DriveBehavior_Monitoring/blob/master/ScreenCapture.JPG)
+
+
+## [Weather information message](https://github.com/hkbtotw/raspi-chatbot)
+
+**Why?**
+In Bangkok, one of cities with the worst traffic condition in the world, just a little bit of drizzle could make the traffic condition much worse. In the logistics business, the weather factor impacts their SLA directly as the flash flood on the street or worsen traffic condition from slowing down traveling speed of cars on the road will immediately contribute to the deliver on-time KPI of the business. 
+
+**Solution:**
+This application runs on LINE application platform. It works by using the submitted location to pull the weather data and return the information to the user together with the extracted tweets relating to hashtag #Traffic  #Accidents #Rain #Flood sorted by distances from the location of user. With this information, the user could use to plan out the trip so they could arrive at the destination on the route with no accidents or raining.
+
+**Technology**
+- **LINE** application development
+- Openweather API
+
+[View application screen](https://github.com/hkbtotw/raspi-chatbot/blob/master/ScreenCapture_Weather.JPG)
+
+
 
 
 ## Contact
