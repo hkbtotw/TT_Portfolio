@@ -34,12 +34,14 @@ This application was developed as a protoytpe of the truck driver's driving beha
 - **Amazon EC2**  _Parse Server_
 - **Google** Google Map api
 - **Android Application Development**
+
 [View application screen](https://github.com/hkbtotw/DriveBehavior/blob/master/ScreenCapture/ScreenPortrait.jpg)
 
-# [Monitoring application (desktop & web application)](https://github.com/hkbtotw/DriveBehavior)
+# [Monitoring dashboard(desktop & web application)](https://github.com/hkbtotw/DriveBehavior_Monitoring)
 **Technology**
 - **Amazon EC2**  _Parse Server_
 - **Python**
+
 [View application screen](https://github.com/hkbtotw/DriveBehavior_Monitoring/blob/master/ScreenCapture.JPG)
 
 
