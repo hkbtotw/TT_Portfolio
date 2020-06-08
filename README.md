@@ -65,6 +65,7 @@ This application runs on LINE application platform. It works by using the submit
 - **Twitter**
 - **Chatbot** 
 - **Python**
+- **NLP**
 
 [View application screen](https://github.com/hkbtotw/raspi-chatbot/blob/master/ScreenCapture_Weather.JPG)
 
